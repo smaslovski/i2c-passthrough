@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Tue Oct 29 11:51:03 2024
+[*]
+[dumpfile] "waveforms.ghw"
+[dumpfile_mtime] "Tue Oct 29 11:50:46 2024"
+[dumpfile_size] 3163
+[savefile] "waveforms.gtkw"
+[timestart] 0
+[size] 1916 1053
+[pos] -1 -1
+*-35.000000 26400000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.tb.
+[treeopen] top.tb.i2c_pass_inst.
+[sst_width] 216
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 306
+@200
+-SCL line
+@29
+top.tb.i2c_pass_inst.scl_l
+@28
+top.tb.i2c_pass_inst.pass_scl.dir
+@200
+-SDA line
+@28
+top.tb.i2c_pass_inst.sda_l
+top.tb.i2c_pass_inst.pass_sda.dir
+[pattern_trace] 1
+[pattern_trace] 0
