@@ -109,7 +109,7 @@ begin
       sda_m <= 'Z';
     end;
 
-    variable send_data, data : std_logic_vector(7 downto 0);
+    variable send_data, data : std_logic_vector(1 to 8);
     variable ack             : std_logic;
 
   begin
